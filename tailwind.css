@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.navbar {
+  @apply ml-6 hover:bg-slate-200 hover:text-zinc-700;
+}
+@tailwind utilities;
